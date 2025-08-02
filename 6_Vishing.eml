@@ -1,0 +1,28 @@
+Subject: Phone Verification Required
+From: support@bankalert.com
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8530966293618004622=="
+
+--===============8530966293618004622==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+This message contains HTML content. Please view in an HTML-capable client.
+
+--===============8530966293618004622==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+
+        <p>Dear Customer,</p>
+        <p>We just called regarding a suspicious debit of =E2=82=B918,200 fro=
+m your account. If you missed our call, please dial <strong>1800-900-800</str=
+ong> immediately to verify your transaction.</p>
+        <p>Failing to respond may result in account freeze.<br>Bank Fraud Div=
+ision</p>
+       =20
+
+--===============8530966293618004622==--

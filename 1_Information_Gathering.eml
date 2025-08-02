@@ -1,0 +1,28 @@
+Subject: Quick Survey Regarding Software Use
+From: ithelpdesk@company-support.com
+To: employee@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1973585747207260694=="
+
+--===============1973585747207260694==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+This message contains HTML content. Please view in an HTML-capable client.
+
+--===============1973585747207260694==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+
+        <p>Hi,</p>
+        <p>We=E2=80=99re updating our internal records and need to confirm wh=
+ich browser (Chrome, Edge, Firefox) you use on your workstation. Also, please=
+ mention if you use VPN access regularly.</p>
+        <p>No action is needed beyond this reply.<br>Thanks,<br>IT Desk Suppo=
+rt</p>
+       =20
+
+--===============1973585747207260694==--

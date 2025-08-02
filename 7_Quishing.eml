@@ -1,0 +1,28 @@
+Subject: Update Your Parking Pass
+From: parking@citypermit.in
+To: user@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7174124381312360914=="
+
+--===============7174124381312360914==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+This message contains HTML content. Please view in an HTML-capable client.
+
+--===============7174124381312360914==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+
+        <p>Hello,</p>
+        <p>Your parking permit is set to expire. Scan the QR code below to up=
+date your info and avoid fines.</p>
+        <img src=3D"http://city-parking-checkin.info/update" width=3D"150" he=
+ight=3D"150" alt=3D"QR Code"/>
+        <p>Municipal Parking Dept.</p>
+       =20
+
+--===============7174124381312360914==--

@@ -1,0 +1,27 @@
+Subject: Updated Employee List for Annual Review
+From: harish.mehta@vendor-support.com
+To: hr_manager@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6329641139675725143=="
+
+--===============6329641139675725143==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+This message contains HTML content. Please view in an HTML-capable client.
+
+--===============6329641139675725143==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+
+        <p>Hi Anjali,</p>
+        <p>Here=E2=80=99s the final updated list of employees for Q3 performa=
+nce review.<br>Please keep this confidential.</p>
+        <p>[Attachment: performance_q3.xlsx]</p>
+        <p>Let me know once reviewed.<br>Harish Mehta</p>
+       =20
+
+--===============6329641139675725143==--

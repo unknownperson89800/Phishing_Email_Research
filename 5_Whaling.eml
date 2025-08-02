@@ -1,0 +1,29 @@
+Subject: Urgent Wire Transfer Request
+From: ceo@company-executive.com
+To: finance@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2645734929141907808=="
+
+--===============2645734929141907808==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+This message contains HTML content. Please view in an HTML-capable client.
+
+--===============2645734929141907808==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+
+        <p>Hi,</p>
+        <p>We need to process a confidential transfer of =E2=82=B918,00,000 t=
+o the following account for a strategic acquisition. This must be completed b=
+efore EOD. I=E2=80=99m tied up in back-to-back meetings.</p>
+        <p>Bank: HSBC<br>Account Name: Innovate Ventures<br>Account No: 22018=
+88822</p>
+        <p>Please handle it discreetly.<br>-- CEO</p>
+       =20
+
+--===============2645734929141907808==--
